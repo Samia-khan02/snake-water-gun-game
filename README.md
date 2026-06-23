@@ -1,4 +1,4 @@
-# snake-water-gun-game
+# Snake-Water-Gun-Game
 Python implementation of the Snake-Water-Gun game with score tracking and multiple rounds.
 
 A Python-based Snake-Water-Gun game where the user plays against the computer.
